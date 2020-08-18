@@ -1,0 +1,12 @@
+=============
++ Lisez moi +
+=============
+
+Voici des exemples "simple" pour le SGDK et la megadrive avec des commentaires en Français.
+Les exemples n'ont pas le but de révolutionner la programmation avec le SGDK, mais de vous lancer sur cette machine
+et vous une donner une petite base avec des fonctions simples et proche de la machine.
+
+Le SGDK possède des fonctions ultra puissante de "haut niveau" pour gerer des tas de choses comme un moteur de sprite évolué, 
+mais connaitre un minimum "la base" vous permet très certainement de savourer le travaille de steff.
+
+
